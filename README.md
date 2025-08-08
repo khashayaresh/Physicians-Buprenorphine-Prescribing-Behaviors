@@ -23,8 +23,8 @@ Buprenorphine • Opioid Use Disorder • Physician Behaviors • Treatment • 
 ---
 
 ## Repository Contents
-- **Physicians-Buprenorphine-Prescribing-Behaviors.docx** – Full manuscript (Microsoft Word format)
 - **Physicians-Buprenorphine-Prescribing-Behaviors.pdf** – Full manuscript (PDF format)
+- **data_analysis.R** – R script for data cleaning, descriptive statistics, and inferential analysis (t-tests, Wilcoxon Signed Rank, Kruskal-Wallis, Dunn’s tests)
 - **README.md** – Project overview and metadata
 
 ---
