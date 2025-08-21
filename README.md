@@ -24,7 +24,7 @@ Buprenorphine • Opioid Use Disorder • Physician Behaviors • Treatment • 
 
 ## Repository Contents
 - **Physicians-Buprenorphine-Prescribing-Behaviors.pdf** – Full manuscript (PDF format)
-- **data_analysis.R** – R script for data cleaning, descriptive statistics, and inferential analysis 
+- **data_analysis.R** – R script for data analysis 
 - **README.md** – Project overview 
 
 ---
@@ -33,11 +33,6 @@ Buprenorphine • Opioid Use Disorder • Physician Behaviors • Treatment • 
 If you use or refer to this work, please cite as:
 
 > Eshtiaghi, K., Bhatjire, P., Shokrollah Shirazi, A., & Fleming, M. (2025). Examining Physicians’ Behaviors Regarding Buprenorphine Prescribing for Opioid Use Disorder. Chapman University School of Pharmacy.
-
----
-
-## License
-This work is licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt the material with appropriate credit.
 
 ---
 
